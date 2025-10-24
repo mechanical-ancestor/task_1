@@ -1,3 +1,0 @@
-/home/lan/桌面/HelloMA/build/CMakeFiles/HelloMA_EXE.dir
-/home/lan/桌面/HelloMA/build/CMakeFiles/edit_cache.dir
-/home/lan/桌面/HelloMA/build/CMakeFiles/rebuild_cache.dir
