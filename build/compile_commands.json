@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/lan/桌面/HelloMA/build",
-  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/HelloMA_EXE.dir/main.cpp.o -c /home/lan/桌面/HelloMA/main.cpp",
-  "file": "/home/lan/桌面/HelloMA/main.cpp",
-  "output": "CMakeFiles/HelloMA_EXE.dir/main.cpp.o"
-}
-]
