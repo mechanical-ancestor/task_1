@@ -1,0 +1,3 @@
+/home/z/task_1/build/CMakeFiles/hello_ma.dir
+/home/z/task_1/build/CMakeFiles/edit_cache.dir
+/home/z/task_1/build/CMakeFiles/rebuild_cache.dir
