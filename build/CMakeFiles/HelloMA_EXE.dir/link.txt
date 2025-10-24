@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/HelloMA_EXE.dir/main.cpp.o -o HelloMA_EXE 
