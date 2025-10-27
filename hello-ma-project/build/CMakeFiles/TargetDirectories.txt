@@ -1,3 +1,0 @@
-/home/wrt/hello-ma-project/build/CMakeFiles/hello_ma.dir
-/home/wrt/hello-ma-project/build/CMakeFiles/edit_cache.dir
-/home/wrt/hello-ma-project/build/CMakeFiles/rebuild_cache.dir
