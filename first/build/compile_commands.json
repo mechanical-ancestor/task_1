@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/xsl/桌面/first/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/helloMA.dir/HelloMA.cpp.o -c /home/xsl/桌面/first/HelloMA.cpp",
+  "file": "/home/xsl/桌面/first/HelloMA.cpp",
+  "output": "CMakeFiles/helloMA.dir/HelloMA.cpp.o"
+}
+]
