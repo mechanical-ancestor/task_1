@@ -1,3 +1,0 @@
-/home/xsl/桌面/first/build/CMakeFiles/helloMA.dir
-/home/xsl/桌面/first/build/CMakeFiles/edit_cache.dir
-/home/xsl/桌面/first/build/CMakeFiles/rebuild_cache.dir
